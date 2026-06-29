@@ -103,4 +103,5 @@ URL Routing is the process of mapping a URL to the appropriate Django view.
 
 Answer:
 
-Django first checks `urls.py` to determine which view should handle the request. This makes routing centralized and allows different URLs to point to different parts of the application.
+Django first checks `urls.py` to determine which view should handle the request. 
+This makes routing centralized and allows different URLs to point to different parts of the application.
